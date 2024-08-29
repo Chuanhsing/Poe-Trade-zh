@@ -56,9 +56,17 @@ let changeLanguage = async (language) => {
       // items
       items.result.forEach((category) => {
         category.entries.forEach((item) => {
-          let haveTranslate = translate[item.text]
-          if (!!haveTranslate) {
-            item.text = haveTranslate.zh_tw
+          if (item.type && !item.text) {
+            let haveTranslate = translate[item.type]
+            if (!!haveTranslate) {
+              item.name = ''
+              item.text = haveTranslate.zh_tw
+            }
+          } else if(item.text) {
+            let haveTranslate = translate[item.text]
+            if (!!haveTranslate) {
+              item.text = haveTranslate.zh_tw
+            }
           }
         })
       })
