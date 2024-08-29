@@ -1,4 +1,208 @@
 {
+    "Saqawine Rhoa": {
+        "zh_tw": "斯卡沃恐喙鳥 (Saqawine Rhoa)",
+        "zh_cn": "苍空恐喙鸟 (Saqawine Rhoa)"
+    },
+    "Farric Tiger Alpha": {
+        "zh_tw": "費爾羅猛虎幻獸 (Farric Tiger Alpha)",
+        "zh_cn": "大地巨虎 (Farric Tiger Alpha)"
+    },
+    "Farric Flame Hellion Alpha": {
+        "zh_tw": "費爾羅烈焰犬幻獸 (Farric Flame Hellion Alpha)",
+        "zh_cn": "大地烈炎地狱巨犬 (Farric Flame Hellion Alpha)"
+    },
+    "Farric Frost Hellion Alpha": {
+        "zh_tw": "費爾羅冰霜犬幻獸 (Farric Frost Hellion Alpha)",
+        "zh_cn": "大地冰霜地狱巨犬 (Farric Frost Hellion Alpha)"
+    },
+    "Farric Lynx Alpha": {
+        "zh_tw": "費爾羅山貓幻獸 (Farric Lynx Alpha)",
+        "zh_cn": "大地巨型猞猁 (Farric Lynx Alpha)"
+    },
+    "Farric Chieftain": {
+        "zh_tw": "費爾羅酋長 (Farric Chieftain)",
+        "zh_cn": "大地酋长 (Farric Chieftain)"
+    },
+    "Farric Ape": {
+        "zh_tw": "費爾羅狂猿 (Farric Ape)",
+        "zh_cn": "大地巨猿 (Farric Ape)"
+    },
+    "Farric Goatman": {
+        "zh_tw": "費爾羅羊人 (Farric Goatman)",
+        "zh_cn": "大地羊人 (Farric Goatman)"
+    },
+    "Farric Wolf Alpha": {
+        "zh_tw": "費爾羅惡狼幻獸 (Farric Wolf Alpha)",
+        "zh_cn": "大地巨狼 (Farric Wolf Alpha)"
+    },
+    "Farric Magma Hound": {
+        "zh_tw": "費爾羅岩漿獵犬 (Farric Magma Hound)",
+        "zh_cn": "大地熔岩猎犬 (Farric Magma Hound)"
+    },
+    "Farric Pit Hound": {
+        "zh_tw": "費爾羅坑穴獵犬 (Farric Pit Hound)",
+        "zh_cn": "大地深邃猎犬 (Farric Pit Hound)"
+    },
+    "Farric Gargantuan": {
+        "zh_tw": "費爾羅巨人 (Farric Gargantuan)",
+        "zh_cn": "大地野兽 (Farric Gargantuan)"
+    },
+    "Farric Ursa": {
+        "zh_tw": "費爾羅暴熊 (Farric Ursa)",
+        "zh_cn": "大地巨熊 (Farric Ursa)"
+    },
+    "Farric Taurus": {
+        "zh_tw": "費爾羅金牛人 (Farric Taurus)",
+        "zh_cn": "大地石肌牛 (Farric Taurus)"
+    },
+    "Farric Goliath": {
+        "zh_tw": "費爾羅巨獸 (Farric Goliath)",
+        "zh_cn": "大地针背兽 (Farric Goliath)"
+    },
+    "Saqawine Retch": {
+        "zh_tw": "斯卡沃反芻鳥 (Saqawine Retch)",
+        "zh_cn": "苍空反刍鸟 (Saqawine Retch)"
+    },
+    "Saqawine Vulture": {
+        "zh_tw": "斯卡沃禿鷹 (Saqawine Vulture)",
+        "zh_cn": "苍空秃鹰 (Saqawine Vulture)"
+    },
+    "Saqawine Rhex": {
+        "zh_tw": "斯卡沃雛鳥 (Saqawine Rhex)",
+        "zh_cn": "苍空凶鸟 (Saqawine Rhex)"
+    },
+    "Saqawine Cobra": {
+        "zh_tw": "斯卡沃眼鏡蛇 (Saqawine Cobra)",
+        "zh_cn": "苍空眼镜蛇 (Saqawine Cobra)"
+    },
+    "Saqawine Blood Viper": {
+        "zh_tw": "斯卡沃噬血毒蛇 (Saqawine Blood Viper)",
+        "zh_cn": "苍空毒血蛇 (Saqawine Blood Viper)"
+    },
+    "Saqawine Chimeral": {
+        "zh_tw": "斯卡沃龍蜥 (Saqawine Chimeral)",
+        "zh_cn": "苍空奇美拉 (Saqawine Chimeral)"
+    },
+    "Fenumal Queen": {
+        "zh_tw": "菲恩絲女皇 (Fenumal Queen)",
+        "zh_cn": "暗夜女王 (Fenumal Queen)"
+    },
+    "Fenumal Scrabbler": {
+        "zh_tw": "菲恩絲搗亂者 (Fenumal Scrabbler)",
+        "zh_cn": "暗夜收割者 (Fenumal Scrabbler)"
+    },
+    "Fenumal Devourer": {
+        "zh_tw": "菲恩絲吞噬獸 (Fenumal Devourer)",
+        "zh_cn": "暗夜吞噬者 (Fenumal Devourer)"
+    },
+    "Fenumal Plagued Arachnid": {
+        "zh_tw": "菲恩絲疫病蜘蛛 (Fenumal Plagued Arachnid)",
+        "zh_cn": "暗夜异蛛 (Fenumal Plagued Arachnid)"
+    },
+    "Fenumal Hybrid Arachnid": {
+        "zh_tw": "菲恩絲混血蜘蛛 (Fenumal Hybrid Arachnid)",
+        "zh_cn": "暗夜混毒魔蛛 (Fenumal Hybrid Arachnid)"
+    },
+    "Fenumal Widow": {
+        "zh_tw": "菲恩絲黑寡婦 (Fenumal Widow)",
+        "zh_cn": "暗夜黑寡妇 (Fenumal Widow)"
+    },
+    "Fenumal Scorpion": {
+        "zh_tw": "菲恩絲毒蠍 (Fenumal Scorpion)",
+        "zh_cn": "暗夜毒蝎 (Fenumal Scorpion)"
+    },
+    "Craicic Vassal": {
+        "zh_tw": "奎爾珊之奴 (Craicic Vassal)",
+        "zh_cn": "深海寄生者 (Craicic Vassal)"
+    },
+    "Craicic Squid": {
+        "zh_tw": "奎爾珊烏賊 (Craicic Squid)",
+        "zh_cn": "深海墨鱼 (Craicic Squid)"
+    },
+    "Craicic Watcher": {
+        "zh_tw": "奎爾珊看守者 (Craicic Watcher)",
+        "zh_cn": "深海守望者 (Craicic Watcher)"
+    },
+    "Craicic Sand Spitter": {
+        "zh_tw": "奎爾珊噴砂爪蟹 (Craicic Sand Spitter)",
+        "zh_cn": "深海喷砂爪蟹 (Craicic Sand Spitter)"
+    },
+    "Craicic Shield Crab": {
+        "zh_tw": "奎爾珊重盾巨蟹 (Craicic Shield Crab)",
+        "zh_cn": "深海附壳巨蟹 (Craicic Shield Crab)"
+    },
+    "Craicic Savage Crab": {
+        "zh_tw": "奎爾珊殘暴的蟹 (Craicic Savage Crab)",
+        "zh_cn": "深海野蛮巨蟹 (Craicic Savage Crab)"
+    },
+    "Craicic Spider Crab": {
+        "zh_tw": "奎爾珊蛛蛛蟹 (Craicic Spider Crab)",
+        "zh_cn": "深海蜘蛛蟹 (Craicic Spider Crab)"
+    },
+    "Craicic Maw": {
+        "zh_tw": "奎爾珊裂齒獸 (Craicic Maw)",
+        "zh_cn": "深海裂齿兽 (Craicic Maw)"
+    },
+    "Craicic Chimeral": {
+        "zh_tw": "奎爾珊龍蜥 (Craicic Chimeral)",
+        "zh_cn": "深海奇美拉 (Craicic Chimeral)"
+    },
+    "Farrul, First of the Plains": {
+        "zh_tw": "初始之地費爾羅 (Farrul, First of the Plains)",
+        "zh_cn": "大地初子 法瑞尔 (Farrul, First of the Plains)"
+    },
+    "Saqawal, First of the Sky": {
+        "zh_tw": "初始之天斯卡沃 (Saqawal, First of the Sky)",
+        "zh_cn": "苍空初子 萨奇沃 (Saqawal, First of the Sky)"
+    },
+    "Fenumus, First of the Night": {
+        "zh_tw": "初始之夜菲恩絲 (Fenumus, First of the Night)",
+        "zh_cn": "暗夜初子 费努姆斯 (Fenumus, First of the Night)"
+    },
+    "Craiceann, First of the Deep": {
+        "zh_tw": "初始之潭奎爾珊 (Craiceann, First of the Deep)",
+        "zh_cn": "深海初子 克林斯昂 (Craiceann, First of the Deep)"
+    },
+    "Wild Bristle Matron": {
+        "zh_tw": "野性之毛刺看守獸 (Wild Bristle Matron)",
+        "zh_cn": "荒野母兽 (Wild Bristle Matron)"
+    },
+    "Wild Hellion Alpha": {
+        "zh_tw": "野性之地獄犬幻獸 (Wild Hellion Alpha)",
+        "zh_cn": "荒野头狼 (Wild Hellion Alpha)"
+    },
+    "Wild Brambleback": {
+        "zh_tw": "野性之叢林巨獸 (Wild Brambleback)",
+        "zh_cn": "荒野荆背 (Wild Brambleback)"
+    },
+    "Vivid Watcher": {
+        "zh_tw": "靈現之看守者 (Vivid Watcher)",
+        "zh_cn": "活性哨兵 (Vivid Watcher)"
+    },
+    "Vivid Vulture": {
+        "zh_tw": "靈現之禿鷹 (Vivid Vulture)",
+        "zh_cn": "活性匿者 (Vivid Vulture)"
+    },
+    "Vivid Abberarach": {
+        "zh_tw": "靈現之艾伯拉赫 (Vivid Abberarach)",
+        "zh_cn": "活性纺纱 (Vivid Abberarach)"
+    },
+    "Primal Rhex Matriarch": {
+        "zh_tw": "原始之野雛女酋 (Primal Rhex Matriarch)",
+        "zh_cn": "原始鸟母 (Primal Rhex Matriarch)"
+    },
+    "Primal Crushclaw": {
+        "zh_tw": "原始之粉碎之爪 (Primal Crushclaw)",
+        "zh_cn": "原始利爪 (Primal Crushclaw)"
+    },
+    "Primal Cystcaller": {
+        "zh_tw": "原始之羊人 (Primal Cystcaller)",
+        "zh_cn": "原始囊行 (Primal Cystcaller)"
+    },
+    "Black Mórrigan": {
+        "zh_tw": "黑色莫里根 (Black Mórrigan)",
+        "zh_cn": "黑羽之莫丽根 (Black Mórrigan)"
+    },
     "The Anvil Amber Amulet": {
         "zh_tw": "信念之砧 琥珀護身符 (The Anvil Amber Amulet)",
         "zh_cn": "信念之砧 琥珀护身符 (The Anvil Amber Amulet)"
@@ -5738,6 +5942,138 @@
     "Kaom's Command Siege Helmet": {
         "zh_tw": "岡姆的命令 破城之盔 (Kaom's Command Siege Helmet)",
         "zh_cn": "冈姆的命令 破城之盔 (Kaom's Command Siege Helmet)"
+    },
+    "Small Life Flask": {
+        "zh_tw": "小型生命藥劑 (Small Life Flask)",
+        "zh_cn": "小型生命药剂 (Small Life Flask)"
+    },
+    "Medium Life Flask": {
+        "zh_tw": "中型生命藥劑 (Medium Life Flask)",
+        "zh_cn": "中型生命药剂 (Medium Life Flask)"
+    },
+    "Large Life Flask": {
+        "zh_tw": "大型生命藥劑 (Large Life Flask)",
+        "zh_cn": "大型生命药剂 (Large Life Flask)"
+    },
+    "Greater Life Flask": {
+        "zh_tw": "良質生命藥劑 (Greater Life Flask)",
+        "zh_cn": "良质生命药剂 (Greater Life Flask)"
+    },
+    "Grand Life Flask": {
+        "zh_tw": "優質生命藥劑 (Grand Life Flask)",
+        "zh_cn": "优质生命药剂 (Grand Life Flask)"
+    },
+    "Giant Life Flask": {
+        "zh_tw": "巨型生命藥劑 (Giant Life Flask)",
+        "zh_cn": "巨型生命药剂 (Giant Life Flask)"
+    },
+    "Colossal Life Flask": {
+        "zh_tw": "高階生命藥劑 (Colossal Life Flask)",
+        "zh_cn": "高阶生命药剂 (Colossal Life Flask)"
+    },
+    "Sacred Life Flask": {
+        "zh_tw": "聖語生命藥劑 (Sacred Life Flask)",
+        "zh_cn": "圣语生命药剂 (Sacred Life Flask)"
+    },
+    "Hallowed Life Flask": {
+        "zh_tw": "祝福生命藥劑 (Hallowed Life Flask)",
+        "zh_cn": "祝福生命药剂 (Hallowed Life Flask)"
+    },
+    "Sanctified Life Flask": {
+        "zh_tw": "聖化生命藥劑 (Sanctified Life Flask)",
+        "zh_cn": "圣化生命药剂 (Sanctified Life Flask)"
+    },
+    "Divine Life Flask": {
+        "zh_tw": "不朽生命藥劑 (Divine Life Flask)",
+        "zh_cn": "不朽生命药剂 (Divine Life Flask)"
+    },
+    "Eternal Life Flask": {
+        "zh_tw": "永恆生命藥劑 (Eternal Life Flask)",
+        "zh_cn": "永恒生命药剂 (Eternal Life Flask)"
+    },
+    "Royale Small Life Flask": {
+        "zh_tw": "生命藥劑（小） (Royale Small Life Flask)",
+        "zh_cn": "小型生命药剂 (Royale Small Life Flask)"
+    },
+    "Royale Medium Life Flask": {
+        "zh_tw": "生命藥劑（中） (Royale Medium Life Flask)",
+        "zh_cn": "中型生命药剂 (Royale Medium Life Flask)"
+    },
+    "Royale Large Life Flask": {
+        "zh_tw": "生命藥劑（大） (Royale Large Life Flask)",
+        "zh_cn": "大型生命药剂 (Royale Large Life Flask)"
+    },
+    "Small Mana Flask": {
+        "zh_tw": "小型魔力藥劑 (Small Mana Flask)",
+        "zh_cn": "小型魔力药剂 (Small Mana Flask)"
+    },
+    "Medium Mana Flask": {
+        "zh_tw": "中型魔力藥劑 (Medium Mana Flask)",
+        "zh_cn": "中型魔力药剂 (Medium Mana Flask)"
+    },
+    "Large Mana Flask": {
+        "zh_tw": "大型魔力藥劑 (Large Mana Flask)",
+        "zh_cn": "大型魔力药剂 (Large Mana Flask)"
+    },
+    "Greater Mana Flask": {
+        "zh_tw": "良質魔力藥劑 (Greater Mana Flask)",
+        "zh_cn": "良质魔力药剂 (Greater Mana Flask)"
+    },
+    "Grand Mana Flask": {
+        "zh_tw": "優質魔力藥劑 (Grand Mana Flask)",
+        "zh_cn": "优质魔力药剂 (Grand Mana Flask)"
+    },
+    "Giant Mana Flask": {
+        "zh_tw": "巨型魔力藥劑 (Giant Mana Flask)",
+        "zh_cn": "巨型魔力药剂 (Giant Mana Flask)"
+    },
+    "Colossal Mana Flask": {
+        "zh_tw": "高階魔力藥劑 (Colossal Mana Flask)",
+        "zh_cn": "高阶魔力药剂 (Colossal Mana Flask)"
+    },
+    "Sacred Mana Flask": {
+        "zh_tw": "聖語魔力藥劑 (Sacred Mana Flask)",
+        "zh_cn": "圣语魔力药剂 (Sacred Mana Flask)"
+    },
+    "Hallowed Mana Flask": {
+        "zh_tw": "祝福魔力藥劑 (Hallowed Mana Flask)",
+        "zh_cn": "祝福魔力药剂 (Hallowed Mana Flask)"
+    },
+    "Sanctified Mana Flask": {
+        "zh_tw": "聖化魔力藥劑 (Sanctified Mana Flask)",
+        "zh_cn": "圣化魔力药剂 (Sanctified Mana Flask)"
+    },
+    "Divine Mana Flask": {
+        "zh_tw": "不朽魔力藥劑 (Divine Mana Flask)",
+        "zh_cn": "不朽魔力药剂 (Divine Mana Flask)"
+    },
+    "Eternal Mana Flask": {
+        "zh_tw": "永恆魔力藥劑 (Eternal Mana Flask)",
+        "zh_cn": "永恒魔力药剂 (Eternal Mana Flask)"
+    },
+    "Small Hybrid Flask": {
+        "zh_tw": "小型複合藥劑 (Small Hybrid Flask)",
+        "zh_cn": "小型复合药剂 (Small Hybrid Flask)"
+    },
+    "Medium Hybrid Flask": {
+        "zh_tw": "中型複合藥劑 (Medium Hybrid Flask)",
+        "zh_cn": "中型复合药剂 (Medium Hybrid Flask)"
+    },
+    "Large Hybrid Flask": {
+        "zh_tw": "大型複合藥劑 (Large Hybrid Flask)",
+        "zh_cn": "大型复合药剂 (Large Hybrid Flask)"
+    },
+    "Colossal Hybrid Flask": {
+        "zh_tw": "高階複合藥劑 (Colossal Hybrid Flask)",
+        "zh_cn": "高阶复合药剂 (Colossal Hybrid Flask)"
+    },
+    "Sacred Hybrid Flask": {
+        "zh_tw": "聖語複合藥劑 (Sacred Hybrid Flask)",
+        "zh_cn": "圣语复合药剂 (Sacred Hybrid Flask)"
+    },
+    "Hallowed Hybrid Flask": {
+        "zh_tw": "祝福複合藥劑 (Hallowed Hybrid Flask)",
+        "zh_cn": "祝福复合药剂 (Hallowed Hybrid Flask)"
     },
     "Mystery Leaguestone": {
         "zh_tw": "神秘聯盟石 (Mystery Leaguestone)",
@@ -12471,6 +12807,78 @@
         "zh_tw": "輪迴權杖 (Alternating Sceptre)",
         "zh_cn": "变化短杖 (Alternating Sceptre)"
     },
+    "Diamond Flask": {
+        "zh_tw": "寶鑽藥劑 (Diamond Flask)",
+        "zh_cn": "宝钻药剂 (Diamond Flask)"
+    },
+    "Ruby Flask": {
+        "zh_tw": "紅玉藥劑 (Ruby Flask)",
+        "zh_cn": "红玉药剂 (Ruby Flask)"
+    },
+    "Sapphire Flask": {
+        "zh_tw": "藍玉藥劑 (Sapphire Flask)",
+        "zh_cn": "蓝玉药剂 (Sapphire Flask)"
+    },
+    "Topaz Flask": {
+        "zh_tw": "黃玉藥劑 (Topaz Flask)",
+        "zh_cn": "黄玉药剂 (Topaz Flask)"
+    },
+    "Granite Flask": {
+        "zh_tw": "堅岩藥劑 (Granite Flask)",
+        "zh_cn": "坚岩药剂 (Granite Flask)"
+    },
+    "Quicksilver Flask": {
+        "zh_tw": "水銀藥劑 (Quicksilver Flask)",
+        "zh_cn": "水银药剂 (Quicksilver Flask)"
+    },
+    "Amethyst Flask": {
+        "zh_tw": "紫晶藥劑 (Amethyst Flask)",
+        "zh_cn": "紫晶药剂 (Amethyst Flask)"
+    },
+    "Quartz Flask": {
+        "zh_tw": "石英藥劑 (Quartz Flask)",
+        "zh_cn": "石英药剂 (Quartz Flask)"
+    },
+    "Jade Flask": {
+        "zh_tw": "翠玉藥劑 (Jade Flask)",
+        "zh_cn": "翠玉药剂 (Jade Flask)"
+    },
+    "Basalt Flask": {
+        "zh_tw": "石化藥劑 (Basalt Flask)",
+        "zh_cn": "石化药剂 (Basalt Flask)"
+    },
+    "Aquamarine Flask": {
+        "zh_tw": "海藍藥劑 (Aquamarine Flask)",
+        "zh_cn": "海蓝药剂 (Aquamarine Flask)"
+    },
+    "Stibnite Flask": {
+        "zh_tw": "迷霧藥劑 (Stibnite Flask)",
+        "zh_cn": "迷雾药剂 (Stibnite Flask)"
+    },
+    "Sulphur Flask": {
+        "zh_tw": "硫磺藥劑 (Sulphur Flask)",
+        "zh_cn": "硫磺药剂 (Sulphur Flask)"
+    },
+    "Silver Flask": {
+        "zh_tw": "真銀藥劑 (Silver Flask)",
+        "zh_cn": "真银药剂 (Silver Flask)"
+    },
+    "Bismuth Flask": {
+        "zh_tw": "灰岩藥劑 (Bismuth Flask)",
+        "zh_cn": "灰岩药剂 (Bismuth Flask)"
+    },
+    "Gold Flask": {
+        "zh_tw": "黃金藥劑 (Gold Flask)",
+        "zh_cn": "黄金药剂 (Gold Flask)"
+    },
+    "Corundum Flask": {
+        "zh_tw": "金剛藥劑 (Corundum Flask)",
+        "zh_cn": "刚玉药剂 (Corundum Flask)"
+    },
+    "Iron Flask": {
+        "zh_tw": "鋼鐵藥劑 (Iron Flask)",
+        "zh_cn": "坚铁药剂 (Iron Flask)"
+    },
     "Lookout Map": {
         "zh_tw": "如履危牆 (Lookout Map)",
         "zh_cn": "危墙之地 (Lookout Map)"
@@ -16750,210 +17158,6 @@
     "Perfect Forest Warrior": {
         "zh_tw": "完美森林戰士 (Perfect Forest Warrior)",
         "zh_cn": "完美森林战士 (Perfect Forest Warrior)"
-    },
-    "Saqawine Rhoa": {
-        "zh_tw": "斯卡沃恐喙鳥 (Saqawine Rhoa)",
-        "zh_cn": "苍空恐喙鸟 (Saqawine Rhoa)"
-    },
-    "Farric Tiger Alpha": {
-        "zh_tw": "費爾羅猛虎幻獸 (Farric Tiger Alpha)",
-        "zh_cn": "大地巨虎 (Farric Tiger Alpha)"
-    },
-    "Farric Flame Hellion Alpha": {
-        "zh_tw": "費爾羅烈焰犬幻獸 (Farric Flame Hellion Alpha)",
-        "zh_cn": "大地烈炎地狱巨犬 (Farric Flame Hellion Alpha)"
-    },
-    "Farric Frost Hellion Alpha": {
-        "zh_tw": "費爾羅冰霜犬幻獸 (Farric Frost Hellion Alpha)",
-        "zh_cn": "大地冰霜地狱巨犬 (Farric Frost Hellion Alpha)"
-    },
-    "Farric Lynx Alpha": {
-        "zh_tw": "費爾羅山貓幻獸 (Farric Lynx Alpha)",
-        "zh_cn": "大地巨型猞猁 (Farric Lynx Alpha)"
-    },
-    "Farric Chieftain": {
-        "zh_tw": "費爾羅酋長 (Farric Chieftain)",
-        "zh_cn": "大地酋长 (Farric Chieftain)"
-    },
-    "Farric Ape": {
-        "zh_tw": "費爾羅狂猿 (Farric Ape)",
-        "zh_cn": "大地巨猿 (Farric Ape)"
-    },
-    "Farric Goatman": {
-        "zh_tw": "費爾羅羊人 (Farric Goatman)",
-        "zh_cn": "大地羊人 (Farric Goatman)"
-    },
-    "Farric Wolf Alpha": {
-        "zh_tw": "費爾羅惡狼幻獸 (Farric Wolf Alpha)",
-        "zh_cn": "大地巨狼 (Farric Wolf Alpha)"
-    },
-    "Farric Magma Hound": {
-        "zh_tw": "費爾羅岩漿獵犬 (Farric Magma Hound)",
-        "zh_cn": "大地熔岩猎犬 (Farric Magma Hound)"
-    },
-    "Farric Pit Hound": {
-        "zh_tw": "費爾羅坑穴獵犬 (Farric Pit Hound)",
-        "zh_cn": "大地深邃猎犬 (Farric Pit Hound)"
-    },
-    "Farric Gargantuan": {
-        "zh_tw": "費爾羅巨人 (Farric Gargantuan)",
-        "zh_cn": "大地野兽 (Farric Gargantuan)"
-    },
-    "Farric Ursa": {
-        "zh_tw": "費爾羅暴熊 (Farric Ursa)",
-        "zh_cn": "大地巨熊 (Farric Ursa)"
-    },
-    "Farric Taurus": {
-        "zh_tw": "費爾羅金牛人 (Farric Taurus)",
-        "zh_cn": "大地石肌牛 (Farric Taurus)"
-    },
-    "Farric Goliath": {
-        "zh_tw": "費爾羅巨獸 (Farric Goliath)",
-        "zh_cn": "大地针背兽 (Farric Goliath)"
-    },
-    "Saqawine Retch": {
-        "zh_tw": "斯卡沃反芻鳥 (Saqawine Retch)",
-        "zh_cn": "苍空反刍鸟 (Saqawine Retch)"
-    },
-    "Saqawine Vulture": {
-        "zh_tw": "斯卡沃禿鷹 (Saqawine Vulture)",
-        "zh_cn": "苍空秃鹰 (Saqawine Vulture)"
-    },
-    "Saqawine Rhex": {
-        "zh_tw": "斯卡沃雛鳥 (Saqawine Rhex)",
-        "zh_cn": "苍空凶鸟 (Saqawine Rhex)"
-    },
-    "Saqawine Cobra": {
-        "zh_tw": "斯卡沃眼鏡蛇 (Saqawine Cobra)",
-        "zh_cn": "苍空眼镜蛇 (Saqawine Cobra)"
-    },
-    "Saqawine Blood Viper": {
-        "zh_tw": "斯卡沃噬血毒蛇 (Saqawine Blood Viper)",
-        "zh_cn": "苍空毒血蛇 (Saqawine Blood Viper)"
-    },
-    "Saqawine Chimeral": {
-        "zh_tw": "斯卡沃龍蜥 (Saqawine Chimeral)",
-        "zh_cn": "苍空奇美拉 (Saqawine Chimeral)"
-    },
-    "Fenumal Queen": {
-        "zh_tw": "菲恩絲女皇 (Fenumal Queen)",
-        "zh_cn": "暗夜女王 (Fenumal Queen)"
-    },
-    "Fenumal Scrabbler": {
-        "zh_tw": "菲恩絲搗亂者 (Fenumal Scrabbler)",
-        "zh_cn": "暗夜收割者 (Fenumal Scrabbler)"
-    },
-    "Fenumal Devourer": {
-        "zh_tw": "菲恩絲吞噬獸 (Fenumal Devourer)",
-        "zh_cn": "暗夜吞噬者 (Fenumal Devourer)"
-    },
-    "Fenumal Plagued Arachnid": {
-        "zh_tw": "菲恩絲疫病蜘蛛 (Fenumal Plagued Arachnid)",
-        "zh_cn": "暗夜异蛛 (Fenumal Plagued Arachnid)"
-    },
-    "Fenumal Hybrid Arachnid": {
-        "zh_tw": "菲恩絲混血蜘蛛 (Fenumal Hybrid Arachnid)",
-        "zh_cn": "暗夜混毒魔蛛 (Fenumal Hybrid Arachnid)"
-    },
-    "Fenumal Widow": {
-        "zh_tw": "菲恩絲黑寡婦 (Fenumal Widow)",
-        "zh_cn": "暗夜黑寡妇 (Fenumal Widow)"
-    },
-    "Fenumal Scorpion": {
-        "zh_tw": "菲恩絲毒蠍 (Fenumal Scorpion)",
-        "zh_cn": "暗夜毒蝎 (Fenumal Scorpion)"
-    },
-    "Craicic Vassal": {
-        "zh_tw": "奎爾珊之奴 (Craicic Vassal)",
-        "zh_cn": "深海寄生者 (Craicic Vassal)"
-    },
-    "Craicic Squid": {
-        "zh_tw": "奎爾珊烏賊 (Craicic Squid)",
-        "zh_cn": "深海墨鱼 (Craicic Squid)"
-    },
-    "Craicic Watcher": {
-        "zh_tw": "奎爾珊看守者 (Craicic Watcher)",
-        "zh_cn": "深海守望者 (Craicic Watcher)"
-    },
-    "Craicic Sand Spitter": {
-        "zh_tw": "奎爾珊噴砂爪蟹 (Craicic Sand Spitter)",
-        "zh_cn": "深海喷砂爪蟹 (Craicic Sand Spitter)"
-    },
-    "Craicic Shield Crab": {
-        "zh_tw": "奎爾珊重盾巨蟹 (Craicic Shield Crab)",
-        "zh_cn": "深海附壳巨蟹 (Craicic Shield Crab)"
-    },
-    "Craicic Savage Crab": {
-        "zh_tw": "奎爾珊殘暴的蟹 (Craicic Savage Crab)",
-        "zh_cn": "深海野蛮巨蟹 (Craicic Savage Crab)"
-    },
-    "Craicic Spider Crab": {
-        "zh_tw": "奎爾珊蛛蛛蟹 (Craicic Spider Crab)",
-        "zh_cn": "深海蜘蛛蟹 (Craicic Spider Crab)"
-    },
-    "Craicic Maw": {
-        "zh_tw": "奎爾珊裂齒獸 (Craicic Maw)",
-        "zh_cn": "深海裂齿兽 (Craicic Maw)"
-    },
-    "Craicic Chimeral": {
-        "zh_tw": "奎爾珊龍蜥 (Craicic Chimeral)",
-        "zh_cn": "深海奇美拉 (Craicic Chimeral)"
-    },
-    "Farrul, First of the Plains": {
-        "zh_tw": "初始之地費爾羅 (Farrul, First of the Plains)",
-        "zh_cn": "大地初子 法瑞尔 (Farrul, First of the Plains)"
-    },
-    "Saqawal, First of the Sky": {
-        "zh_tw": "初始之天斯卡沃 (Saqawal, First of the Sky)",
-        "zh_cn": "苍空初子 萨奇沃 (Saqawal, First of the Sky)"
-    },
-    "Fenumus, First of the Night": {
-        "zh_tw": "初始之夜菲恩絲 (Fenumus, First of the Night)",
-        "zh_cn": "暗夜初子 费努姆斯 (Fenumus, First of the Night)"
-    },
-    "Craiceann, First of the Deep": {
-        "zh_tw": "初始之潭奎爾珊 (Craiceann, First of the Deep)",
-        "zh_cn": "深海初子 克林斯昂 (Craiceann, First of the Deep)"
-    },
-    "Wild Bristle Matron": {
-        "zh_tw": "野性之毛刺看守獸 (Wild Bristle Matron)",
-        "zh_cn": "荒野母兽 (Wild Bristle Matron)"
-    },
-    "Wild Hellion Alpha": {
-        "zh_tw": "野性之地獄犬幻獸 (Wild Hellion Alpha)",
-        "zh_cn": "荒野头狼 (Wild Hellion Alpha)"
-    },
-    "Wild Brambleback": {
-        "zh_tw": "野性之叢林巨獸 (Wild Brambleback)",
-        "zh_cn": "荒野荆背 (Wild Brambleback)"
-    },
-    "Vivid Watcher": {
-        "zh_tw": "靈現之看守者 (Vivid Watcher)",
-        "zh_cn": "活性哨兵 (Vivid Watcher)"
-    },
-    "Vivid Vulture": {
-        "zh_tw": "靈現之禿鷹 (Vivid Vulture)",
-        "zh_cn": "活性匿者 (Vivid Vulture)"
-    },
-    "Vivid Abberarach": {
-        "zh_tw": "靈現之艾伯拉赫 (Vivid Abberarach)",
-        "zh_cn": "活性纺纱 (Vivid Abberarach)"
-    },
-    "Primal Rhex Matriarch": {
-        "zh_tw": "原始之野雛女酋 (Primal Rhex Matriarch)",
-        "zh_cn": "原始鸟母 (Primal Rhex Matriarch)"
-    },
-    "Primal Crushclaw": {
-        "zh_tw": "原始之粉碎之爪 (Primal Crushclaw)",
-        "zh_cn": "原始利爪 (Primal Crushclaw)"
-    },
-    "Primal Cystcaller": {
-        "zh_tw": "原始之羊人 (Primal Cystcaller)",
-        "zh_cn": "原始囊行 (Primal Cystcaller)"
-    },
-    "Black Mórrigan": {
-        "zh_tw": "黑色莫里根 (Black Mórrigan)",
-        "zh_cn": "黑羽之莫丽根 (Black Mórrigan)"
     },
     "Absolution of Inspiring": {
         "zh_tw": "赦免．啟發 (Absolution of Inspiring)",
